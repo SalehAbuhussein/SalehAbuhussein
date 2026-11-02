@@ -34,7 +34,7 @@ I build web applications that businesses use every day, like clinic management, 
 **Angular**
 
 - [Angular-Material-Storybook](https://github.com/SalehAbuhussein/Angular-Material-Storybook): Angular Material components documented in Storybook
-- [Angular-movies](https://github.com/SalehAbuhussein/Angular-movies): a movie browsing app
+- [Angular-Movies](https://github.com/SalehAbuhussein/Angular-Movies): a movie browsing app
 
 **.NET desktop**
 
