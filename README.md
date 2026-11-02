@@ -10,11 +10,16 @@ I build web applications that businesses use every day, like clinic management, 
 
 - Currently building: **[Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System)**, which handles appointments, visits and clinical records (Angular signals, Material 3, ASP.NET Core 8, ADO.NET)
 - Currently writing: **[aspnetcore-guide](https://github.com/SalehAbuhussein/aspnetcore-guide)**, a Laravel-style guide with MVC and Web API tracks, from first app to production
-- I work with **Angular, TypeScript, C#, ASP.NET Core, Node.js/Express and SQL**
+- I work with **Angular (including SSR), TypeScript, RxJS, C#, ASP.NET Core and SQL**, and ship in Agile teams using Jira and Bitbucket
 - Ask me about **Angular signals, Angular Material, Storybook and ASP.NET Core**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,sass,cs,dotnet,nodejs,express,mysql,git" alt="Angular, TypeScript, Sass, C#, .NET, Node.js, Express, MySQL, Git">
+  <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,sass,cs,dotnet,nodejs,mysql,git,bitbucket" alt="Angular, TypeScript, RxJS, Sass, C#, .NET, Node.js, MySQL, Git, Bitbucket">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Angular_SSR-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular SSR">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Agile_/_Scrum-2E7D32?style=flat-square" alt="Agile / Scrum">
 </p>
 
 #### Other projects
