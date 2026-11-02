@@ -11,7 +11,6 @@ I build web applications that businesses use every day, like clinic management, 
 - Currently building: **[Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System)**, which handles appointments, visits and clinical records (Angular signals, Material 3, ASP.NET Core 8, ADO.NET)
 - Currently writing: **[aspnetcore-guide](https://github.com/SalehAbuhussein/aspnetcore-guide)**, a Laravel-style guide with MVC and Web API tracks, from first app to production
 - I work with **Angular (including SSR), TypeScript, RxJS, C#, ASP.NET Core and SQL**, and ship in Agile teams using Jira and Bitbucket
-- Ask me about **Angular signals, Angular Material, Storybook and ASP.NET Core**
 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,sass,cs,dotnet,nodejs,mysql,git,bitbucket" alt="Angular, TypeScript, RxJS, Sass, C#, .NET, Node.js, MySQL, Git, Bitbucket">
