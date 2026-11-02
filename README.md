@@ -13,7 +13,7 @@ I build web applications that businesses use every day, like clinic management, 
 - I work with **Angular (including SSR), TypeScript, RxJS, C#, ASP.NET Core and SQL**, and ship in Agile teams using Jira and Bitbucket
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,sass,cs,dotnet,nodejs,mysql,git,bitbucket" alt="Angular, TypeScript, RxJS, Sass, C#, .NET, Node.js, MySQL, Git, Bitbucket">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,rxjs,sass,cs,dotnet,nodejs,mysql,git,bitbucket" alt="HTML, CSS, JavaScript, Angular, TypeScript, RxJS, Sass, C#, .NET, Node.js, MySQL, Git, Bitbucket">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Angular_SSR-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular SSR">
