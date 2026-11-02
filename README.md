@@ -1,26 +1,25 @@
 ### Hi, I'm Saleh Abuhussein
 
-I'm a full-stack developer. I build business apps with ASP.NET Core on the back end and Angular on the front end, and I like writing SQL by hand instead of hiding it behind an ORM. Lately I've been writing a practical guide to ASP.NET Core on .NET 10.
+I'm a full-stack developer. I build business apps with Angular on the front end and ASP.NET Core on the back end, and I like writing SQL by hand instead of hiding it behind an ORM. Lately I've been writing a practical guide to ASP.NET Core on .NET 10.
 
-- Currently building: **[Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System)**, which handles appointments, visits and clinical records (ASP.NET Core 8, ADO.NET, Angular signals, Material 3)
+- Currently building: **[Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System)**, which handles appointments, visits and clinical records (Angular signals, Material 3, ASP.NET Core 8, ADO.NET)
 - Currently writing: **[aspnetcore-guide](https://github.com/SalehAbuhussein/aspnetcore-guide)**, a Laravel-style guide with MVC and Web API tracks, from first app to production
-- I work with **C#, ASP.NET Core, Angular, TypeScript, Node.js/Express and SQL**
-- Ask me about **ASP.NET Core, Angular signals, Angular Material and Storybook**
+- I work with **Angular, TypeScript, C#, ASP.NET Core, Node.js/Express and SQL**
+- Ask me about **Angular signals, Angular Material, Storybook and ASP.NET Core**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,nodejs,express,sass,mysql,git" alt="C#, .NET, Angular, TypeScript, Node.js, Express, Sass, MySQL, Git">
+  <img src="https://skillicons.dev/icons?i=angular,ts,sass,cs,dotnet,nodejs,express,mysql,git" alt="Angular, TypeScript, Sass, C#, .NET, Node.js, Express, MySQL, Git">
 </p>
 
 #### Other projects
 
+**Angular**
+
+- [Angular-Material-Storybook](https://github.com/SalehAbuhussein/Angular-Material-Storybook): Angular Material components documented in Storybook
+- [Storybook_angular](https://github.com/SalehAbuhussein/Storybook_angular): an example of Storybook set up with Angular
+- [angular-movies-task](https://github.com/SalehAbuhussein/angular-movies-task): a movie browsing app
+
+**.NET**
+
 - [Desktop-Car-Rental-System](https://github.com/SalehAbuhussein/Desktop-Car-Rental-System-): a desktop app for managing cars and rentals (C#)
 - [Cafe-POS](https://github.com/SalehAbuhussein/Cafe-POS): a point-of-sale app for a cafe (C#)
-- [Nodejs---School-Management](https://github.com/SalehAbuhussein/Nodejs---School-Management): a school management API (Node.js, TypeScript)
-- [Storybook_angular](https://github.com/SalehAbuhussein/Storybook_angular): an example of Storybook set up with Angular
-
-<details>
-  <summary>GitHub stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SalehAbuhussein&show_icons=true&hide_border=true&theme=transparent" alt="Saleh Abuhussein's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehAbuhussein&layout=compact&hide_border=true&theme=transparent" alt="Saleh Abuhussein's top languages">
-</details>
