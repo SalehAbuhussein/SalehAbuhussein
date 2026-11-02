@@ -2,7 +2,7 @@
 
 **Full-stack developer · Angular and ASP.NET Core**
 
-I build web applications that businesses use every day, like clinic management, rentals and point of sale. I work across the stack: Angular front ends built on signals, Angular Material and reusable components documented in Storybook, and ASP.NET Core APIs backed by SQL I write and tune myself. I care about code that the next developer can read and change without fear.
+I build web applications that businesses use every day, like clinic management, rentals and point of sale. I work across the stack: Angular front ends built on signals, Angular Material and reusable components documented in Storybook, and ASP.NET Core APIs backed by hand-written SQL. I also build desktop applications in C# and .NET.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saleh--abuhussein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-abuhussein/)
 
@@ -25,17 +25,19 @@ I build web applications that businesses use every day, like clinic management, 
   <img src="https://img.shields.io/badge/Agile_/_Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile / Scrum">
 </p>
 
-#### Other projects
+#### Projects
+
+**Full-stack**
+
+- [Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System): appointments, visits and clinical records. Angular front end (signals, Material 3) with an ASP.NET Core 8 API using raw ADO.NET
 
 **Angular**
 
 - [Angular-Material-Storybook](https://github.com/SalehAbuhussein/Angular-Material-Storybook): Angular Material components documented in Storybook
-- [Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System): the Angular front end for appointments, visits and clinical records (Angular signals, Material 3)
 - [angular-movies-task](https://github.com/SalehAbuhussein/angular-movies-task): a movie browsing app
 
-**.NET**
+**.NET desktop**
 
-- [Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System): the ASP.NET Core 8 back end for the clinic system, with raw ADO.NET and hand-written SQL (C#, .NET)
-- [Car-Rental-System](https://github.com/SalehAbuhussein/Car-Rental-System): a desktop application for managing cars and rentals (C#, .NET)
-- [Cafe-POS](https://github.com/SalehAbuhussein/Cafe-POS): a point-of-sale desktop application for a cafe (C#, .NET)
-- DVLD: a Driving & Vehicle License Department desktop application for license applications, tests and issuing (C#, .NET)
+- [Car-Rental-System](https://github.com/SalehAbuhussein/Car-Rental-System): managing cars and rentals (C#, .NET)
+- [Cafe-POS](https://github.com/SalehAbuhussein/Cafe-POS): a point-of-sale application for a cafe (C#, .NET)
+- DVLD: a Driving & Vehicle License Department application for license applications, tests and issuing (C#, .NET)
