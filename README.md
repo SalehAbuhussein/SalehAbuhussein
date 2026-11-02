@@ -33,4 +33,5 @@ I build web applications that businesses use every day, like clinic management, 
 **.NET**
 
 - [Desktop-Car-Rental-System](https://github.com/SalehAbuhussein/Desktop-Car-Rental-System-): a desktop app for managing cars and rentals (C#)
-- [Cafe-POS](https://github.com/SalehAbuhussein/Cafe-POS): a point-of-sale app for a cafe (C#)
+- [Cafe-POS](https://github.com/SalehAbuhussein/Cafe-POS): a point-of-sale desktop application for a cafe (C#, .NET)
+- DVLD: a Driving & Vehicle License Department desktop application for license applications, tests and issuing (C#, .NET)
