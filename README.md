@@ -1,6 +1,12 @@
-### Hi, I'm Saleh Abuhussein
+### Saleh Abuhussein
 
-I'm a full-stack developer. I build business apps with Angular on the front end and ASP.NET Core on the back end, and I like writing SQL by hand instead of hiding it behind an ORM. Lately I've been writing a practical guide to ASP.NET Core on .NET 10.
+**Full-stack developer · Angular and ASP.NET Core**
+
+I build web applications that businesses use every day, like clinic management, rentals and point of sale. I work across the stack: Angular front ends built on signals, Angular Material and reusable components documented in Storybook, and ASP.NET Core APIs backed by SQL I write and tune myself. I care about code that the next developer can read and change without fear.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saleh--abuhussein-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-abuhussein/)
+
+#### Now
 
 - Currently building: **[Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System)**, which handles appointments, visits and clinical records (Angular signals, Material 3, ASP.NET Core 8, ADO.NET)
 - Currently writing: **[aspnetcore-guide](https://github.com/SalehAbuhussein/aspnetcore-guide)**, a Laravel-style guide with MVC and Web API tracks, from first app to production
