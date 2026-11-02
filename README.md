@@ -2,7 +2,7 @@
 
 **Full-stack developer · Angular and ASP.NET Core**
 
-I build web applications that businesses use every day, like clinic management, rentals and point of sale. I work across the stack: Angular front ends built on signals, Angular Material and reusable components documented in Storybook, and ASP.NET Core APIs backed by hand-written SQL. I also build desktop applications in C# and .NET.
+I build web applications that businesses use every day, like clinic management, rentals and point of sale. I work across the stack: Angular front ends built on signals, Angular Material and reusable components documented in Storybook, and ASP.NET Core APIs on top of databases I design and query by hand in SQL. I also build desktop applications in C# and .NET.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saleh--abuhussein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-abuhussein/)
 
@@ -13,7 +13,7 @@ I build web applications that businesses use every day, like clinic management, 
 - I work with **Angular (including SSR), TypeScript, RxJS, C#, ASP.NET Core and SQL**, and ship in Agile teams using Jira and Bitbucket
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,rxjs,sass,cs,dotnet,nodejs,mysql,git,bitbucket" alt="HTML, CSS, JavaScript, Angular, TypeScript, RxJS, Sass, C#, .NET, Node.js, MySQL, Git, Bitbucket">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,rxjs,sass,cs,dotnet,mysql,git,bitbucket" alt="HTML, CSS, JavaScript, Angular, TypeScript, RxJS, Sass, C#, .NET, MySQL, Git, Bitbucket">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Angular_SSR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular SSR">
