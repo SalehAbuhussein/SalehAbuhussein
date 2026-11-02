@@ -4,7 +4,7 @@
 
 I build web applications that businesses use every day, like clinic management, rentals and point of sale. I work across the stack: Angular front ends built on signals, Angular Material and reusable components documented in Storybook, and ASP.NET Core APIs backed by SQL I write and tune myself. I care about code that the next developer can read and change without fear.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saleh--abuhussein-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-abuhussein/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saleh--abuhussein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-abuhussein/)
 
 #### Now
 
@@ -16,9 +16,13 @@ I build web applications that businesses use every day, like clinic management, 
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,rxjs,sass,cs,dotnet,nodejs,mysql,git,bitbucket" alt="HTML, CSS, JavaScript, Angular, TypeScript, RxJS, Sass, C#, .NET, Node.js, MySQL, Git, Bitbucket">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Angular_SSR-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular SSR">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Agile_/_Scrum-2E7D32?style=flat-square" alt="Agile / Scrum">
+  <img src="https://img.shields.io/badge/Angular_SSR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular SSR">
+  <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Angular Material">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/REST_APIs-6BA539?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Agile_/_Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile / Scrum">
 </p>
 
 #### Other projects
