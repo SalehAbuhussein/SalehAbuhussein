@@ -27,7 +27,7 @@ I build web applications that businesses use every day, like clinic management, 
 **Angular**
 
 - [Angular-Material-Storybook](https://github.com/SalehAbuhussein/Angular-Material-Storybook): Angular Material components documented in Storybook
-- [Storybook_angular](https://github.com/SalehAbuhussein/Storybook_angular): an example of Storybook set up with Angular
+- [Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System): the Angular front end for appointments, visits and clinical records (Angular signals, Material 3)
 - [angular-movies-task](https://github.com/SalehAbuhussein/angular-movies-task): a movie browsing app
 
 **.NET**
