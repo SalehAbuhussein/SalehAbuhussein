@@ -32,7 +32,7 @@ I build web applications that businesses use every day, like clinic management, 
 
 **.NET**
 
-- [Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System): the ASP.NET Core 8 API behind it, with raw ADO.NET and hand-written SQL (C#, .NET)
+- [Clinic-Management-System](https://github.com/SalehAbuhussein/Clinic-Management-System): the ASP.NET Core 8 back end for the clinic system, with raw ADO.NET and hand-written SQL (C#, .NET)
 - [Desktop-Car-Rental-System](https://github.com/SalehAbuhussein/Desktop-Car-Rental-System-): a desktop app for managing cars and rentals (C#)
 - [Cafe-POS](https://github.com/SalehAbuhussein/Cafe-POS): a point-of-sale desktop application for a cafe (C#, .NET)
 - DVLD: a Driving & Vehicle License Department desktop application for license applications, tests and issuing (C#, .NET)
